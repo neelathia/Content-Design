@@ -3,7 +3,7 @@
 > **A comprehensive end-to-end design solution for commercial banking accounts payable workflows**
 
 ## 🚀 Live Demo
-**[View Interactive Prototype](https://trt-solutions.github.io/Content-Design/)**
+**[View Interactive Prototype](https://neelathia.github.io/Content-Design/)**
 
 ## 📋 Project Overview
 
